@@ -1,5 +1,5 @@
 # Test_APP
-//Small simp app for test learning 
+//Small simple app for test learning 
 ///the codes below
 mport UIKit
 
